@@ -1,3 +1,2 @@
 empno: 101
 empname: srini
-empsal: 200000
