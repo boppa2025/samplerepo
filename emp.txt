@@ -1,2 +1,5 @@
 empno: 101
 empname: srini
+address: TG
+location: local
+map: map
