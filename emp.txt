@@ -3,3 +3,4 @@ empname: srini
 address: TG
 location: local
 map: map
+state1: AP
