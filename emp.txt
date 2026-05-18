@@ -4,5 +4,6 @@ address: TG
 location: local
 map: map
 state1: AP
-state5: ABC4
+state5: ABC3
 state6: ABC6
+state7: ABC7
